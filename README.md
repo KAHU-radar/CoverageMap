@@ -1,5 +1,7 @@
 # Ocean surface visible from ships
 
+We estimate the fraction of ocean coverage visible from the on-board radar systems of vessels. This shows the maximum coverage we could achieve, where all vessels to adopt our crowd sourcing system.
+
 ![Ocean visibility](horizon-coverage.svg)
 
 ![Number of vessels seeing a vessel](number-of-visible-vessels-histogram.svg)
